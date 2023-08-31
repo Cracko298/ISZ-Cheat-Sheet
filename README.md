@@ -5,7 +5,7 @@ A "Cheat-Sheet" for ISZ-2021 on Steam/PC that gives address's for ISZ. And "set"
 
 
 
-## Example Console Cheats:
+# Example Basic Console Cheats:
 ```
 teleport                                                                 # Teleport to Cursor Position.
 set Engine.Character bPressedJump True                                   # Player starts to Jump.
@@ -49,7 +49,8 @@ set ISZ.ISZHeli m_EngineParts 1000                                       # No En
 DestroyPawns                                                             # Remove & Replace all Vehciles in the World.
 ```
 
-## Example *RE-UE4SS* Console Cheats:
+ 
+# Example *RE-UE4SS* Console Cheats:
 ```
 teleport                                                                 # Teleport to Cursor Position.
 set Character bPressedJump True                                   # Player starts to Jump.
