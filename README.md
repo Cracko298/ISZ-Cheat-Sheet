@@ -2,10 +2,11 @@
 A "Cheat-Sheet" for ISZ-2021 on Steam/PC that gives address's for ISZ. And "set"/"get" Commands.
 - Files above are what you need to get started.
 
+## Cheat List:
+- **[Universal UE4 Unlocker (UUU)]() Console Cheats.**
+- **[RE-UE4SS]() Console Cheats.**
 
-
-
-# Example Basic Console Cheats:
+# Example *UUU* Console Cheats:
 ```
 teleport                                                                 # Teleport to Cursor Position.
 set Engine.Character bPressedJump True                                   # Player starts to Jump.
